@@ -1,0 +1,19 @@
+.aboutLink {
+	background-color: black;
+	color: white;
+}
+
+.worksLink {
+	background-color: blue;
+	color: cornsilk;
+}
+
+.photoLink {
+	background-color: green;
+	color: fuchsia;
+}
+
+.homeLink {
+	background-color: red;
+	color: seagreen;
+}
